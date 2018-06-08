@@ -1,6 +1,8 @@
 # n-gram_analysis
 
-### N-Gram analysis over sentence dataframe
+## N-Gram analysis over sentence dataframe
+
+### What is n-gram?
 
 N-grams of texts are extensively used in text mining and natural language processing tasks. They are basically a set of co-occuring words within a given window.
 
