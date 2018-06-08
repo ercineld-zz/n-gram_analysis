@@ -8,7 +8,7 @@ N-grams of texts are extensively used in text mining and natural language proces
 
 For instance, for the sentence "Cheap hotels in London".
 
-- If N=2 (known as bigrams), then the ngrams would be:
+- If N=2 (known as bigrams), then the n-grams would be:
 
 - Cheap hotels, hotels in, in London
 
