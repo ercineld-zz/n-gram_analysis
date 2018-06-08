@@ -22,7 +22,7 @@ for sentence in sentences:
     clean_words = [w for w in all_words
                    if w not in english_stopwords
                    and w not in string.punctuation]
-    # Use stems (maybe not what you want?)
+    # Use stems
     stems = [stemmer.stem(x) for x in clean_words]
     for gram in ngrams(stems, N):
         ngram_count[gram] += 1
