@@ -16,8 +16,8 @@ For instance, for the sentence "Cheap hotels in London".
 
 ### How many N-grams in a sentence?
 
-X: Num of words in a given sentence
-K: the sentence
+- X: Num of words in a given sentence
+- K: the sentence
 
 the number of n-grams for sentence K:
-- N-grams(K) = X - (n-1)
+N-grams(K) = X - (n-1)
